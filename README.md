@@ -35,7 +35,7 @@
 ```
 
 ### Demo
-1、<a href="http://luopq.com/demo/pager/examples/index.html" target="_blank"></a>
+1、<a href="http://luopq.com/demo/pager/examples/index.html" target="_blank">Demo</a>
 
 ### Options
 |参数|类型|默认值|描述|
