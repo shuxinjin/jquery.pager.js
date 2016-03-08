@@ -47,4 +47,4 @@
 |prevText|string|"上一页"|上一页按钮显示的文字|
 |nextText|string|"下一页"|下一页按钮显示的文字|
 |buildPageUrl|function|null|构造页码按钮链接href的方法,包含一个pageIndex参数，不传则返回"javascript:;"|
-|onPageChanged|function|null|页码修改后的回调函数，包含一个pageIndex方法|
+|onPageChanged|function|null|页码修改后的回调函数，包含一个pageIndex参数|
