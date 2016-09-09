@@ -84,7 +84,7 @@
             that.$ele.on("click", "a", function () {
                 that.options.pageIndex = parseInt($(this).attr("page"), 10);
                 that.renderHtml();
-                that.options.onPageChanged && that.options.onPageChange(that.options.pageIndex);
+                that.options.onPageChanged && that.options.onPageChanged(that.options.pageIndex);
             })
         },
         buildPageUrl: function () {
